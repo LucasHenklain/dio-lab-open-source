@@ -1,5 +1,6 @@
 # Lucas Henklain
-Muito prazer! Sou estudante de Engenharia de Software pela FIAP e apaixonado por tecnologia!
+Muito prazer! Sou estudante de Engenharia de Software pela FIAP e apaixonado por tecnologia! ![git profile readme](https://github.com/digitalinnovationone/dio-lab-open-source/assets/106041194/0f736646-df8e-4964-89e6-63ef60bd0a6e)
+
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/lucas-henklain/)
